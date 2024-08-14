@@ -1,11 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>yiqiu's blog</title><link>https://huyiqiu.github.io</link><description>huyiqiu's blog</description><copyright>yiqiu's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/34642299</url><title>avatar</title><link>https://huyiqiu.github.io</link></image><lastBuildDate>Wed, 14 Aug 2024 07:49:31 +0000</lastBuildDate><managingEditor>yiqiu's blog</managingEditor><ttl>60</ttl><webMaster>yiqiu's blog</webMaster><item><title>Init commit</title><link>https://huyiqiu.github.io/post/Init%20commit.html</link><description>&lt;h1 align='center'&gt;Hi 👋, I'm huyiqiu&lt;/h1&gt;&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>yiqiu's blog</title><link>https://huyiqiu.github.io</link><description>huyiqiu's blog</description><copyright>yiqiu's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/34642299</url><title>avatar</title><link>https://huyiqiu.github.io</link></image><lastBuildDate>Wed, 14 Aug 2024 07:51:34 +0000</lastBuildDate><managingEditor>yiqiu's blog</managingEditor><ttl>60</ttl><webMaster>yiqiu's blog</webMaster><item><title>Init commit</title><link>https://huyiqiu.github.io/post/Init%20commit.html</link><description>&lt;h1 align='center'&gt;Hi 👋, I'm huyiqiu&lt;/h1&gt;&#13;
 &lt;h3 align='center'&gt;on my way to a pro coder&lt;/h3&gt;&#13;
 &#13;
 - 🌱 I’m currently working on **Go, Kubernetes, Rancher**&#13;
 &#13;
-- 💻 I'm learning **ReactJs, Swift** right now because I believe every developer should know about front-end.。</description><guid isPermaLink="true">https://huyiqiu.github.io/post/Init%20commit.html</guid><pubDate>Wed, 14 Aug 2024 07:49:01 +0000</pubDate></item><item><title>this is a test</title><link>https://huyiqiu.github.io/post/this%20is%20a%20test.html</link><description>## 1. test&#13;
-&#13;
-I'm writing a blog&#13;
-&#13;
-。</description><guid isPermaLink="true">https://huyiqiu.github.io/post/this%20is%20a%20test.html</guid><pubDate>Wed, 14 Aug 2024 05:58:02 +0000</pubDate></item></channel></rss>
+- 💻 I'm learning **ReactJs, Swift** right now because I believe every developer should know about front-end.。</description><guid isPermaLink="true">https://huyiqiu.github.io/post/Init%20commit.html</guid><pubDate>Wed, 14 Aug 2024 07:49:01 +0000</pubDate></item></channel></rss>
