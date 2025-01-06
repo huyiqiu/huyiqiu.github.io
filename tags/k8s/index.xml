@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Eqiu 的博客</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Eqiu 的博客</description>
+    <title>K8s on Eqiu 的博客</title>
+    <link>http://localhost:1313/tags/k8s/</link>
+    <description>Recent content in K8s on Eqiu 的博客</description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nginx-ingress-controller升级ingress版本</title>
       <link>http://localhost:1313/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/</link>
