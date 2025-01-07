@@ -9,7 +9,7 @@
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>nginx-ingress-controller升级ingress版本</title>
+      <title>nginx-ingress-controller升级nginx版本</title>
       <link>http://localhost:1313/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/</guid>
