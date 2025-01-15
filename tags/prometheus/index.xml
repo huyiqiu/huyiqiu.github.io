@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kubernetes on Eqiu 的博客</title>
-    <link>http://localhost:1313/categories/kubernetes/</link>
-    <description>Recent content in Kubernetes on Eqiu 的博客</description>
+    <title>Prometheus on Eqiu 的博客</title>
+    <link>http://localhost:1313/tags/prometheus/</link>
+    <description>Recent content in Prometheus on Eqiu 的博客</description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/prometheus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>基于prometheus go_client编写一个exporter</title>
       <link>http://localhost:1313/posts/build-an-exporter/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/build-an-exporter/</guid>
       <description>&lt;h2 id=&#34;exporter-是什么&#34;&gt;exporter 是什么&lt;/h2&gt;&#xA;&lt;p&gt;exporter可以被简单地认为是一个提供监控指标的工具，对于prometheus生态，exporter是一个http服务器，prometheus通过轮询的方式向这个服务器抓取数据。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>nginx-ingress-controller升级nginx版本</title>
-      <link>http://localhost:1313/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/</link>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/</guid>
-      <description>&lt;p&gt;升级nginx-ingress-controller中nginx的版本&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

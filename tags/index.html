@@ -312,8 +312,12 @@
 
   <div class="md:basis-[200px] lg:basis-[300px] p-4 prose dark:prose-invert">
     <h1 class="text-2xl">所有标签</h1>
-    <p class="text-sm">4标签</p>
+    <p class="text-sm">7标签</p>
     <div class="flex flex-wrap gap-4 mt-6">
+      
+      <a href="/tags/exporter/" class="badge h-6 no-underline hover:badge-primary">
+        Exporter
+      </a>
       
       <a href="/tags/ingress-controller/" class="badge h-6 no-underline hover:badge-primary">
         Ingress-Controller
@@ -331,6 +335,14 @@
         Nginx
       </a>
       
+      <a href="/tags/prometheus/" class="badge h-6 no-underline hover:badge-primary">
+        Prometheus
+      </a>
+      
+      <a href="/tags/%E7%9B%91%E6%8E%A7/" class="badge h-6 no-underline hover:badge-primary">
+        监控
+      </a>
+      
     </div>
   </div>
   
@@ -341,6 +353,52 @@
 
     
     <div class="dream-grid">
+    
+      <div class="w-full md:w-1/2 lg:w-1/3 p-4 dream-column">
+        <a class="card card-compact bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/build-an-exporter/">
+  
+  <figure>
+    
+    <img src="https://raw.githubusercontent.com/huyiqiu/blog-image-hosting/main/img/20250114163607.png" alt="基于prometheus go_client编写一个exporter" />
+    
+  </figure>
+  
+
+  <div class="card-body">
+    <h2 class="card-title">基于prometheus go_client编写一个exporter</h2>
+
+    <p class="date text-base-content/60">
+    
+      星期三, 1月 15, 2025
+    
+    </p>
+
+    <h2 id="exporter-是什么">exporter 是什么</h2>
+<p>exporter可以被简单地认为是一个提供监控指标的工具，对于prometheus生态，exporter是一个http服务器，prometheus通过轮询的方式向这个服务器抓取数据。</p>
+
+    <div class="card-actions justify-between items-center mt-4">
+      <div class="flex items-center">
+  
+  <span>@</span>
+  
+
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  
+    <span itemprop="name">Eqiu</span>
+  
+  </span>
+</div>
+
+
+      <div class="flex items-center">
+        <ion-icon name="time" class="mr-1"></ion-icon>
+        <span>3分钟阅读</span>
+      </div>
+    </div>
+  </div>
+</a>
+
+      </div>
     
       <div class="w-full md:w-1/2 lg:w-1/3 p-4 dream-column">
         <a class="card card-compact bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/">
