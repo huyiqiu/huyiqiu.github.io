@@ -423,7 +423,7 @@
 <p>prometheus提供了基于各种语言的客户端，使得我们能够更加方便的实现一个exporter，接下来我们以go为例，实现一个简单的exporter，用来监控GPU上的进程</p>
 <h3 id="定义指标">定义指标</h3>
 <p>首先我们需要定义一个指标，prometheus接受的指标有一个标准的规范，一条指标通常包括三个内容，分别是帮助信息、类型信息、指标内容</p>
-<img src="https://raw.githubusercontent.com/huyiqiu/blog-image-hosting/main/img/20250115165927.png" alt="image-20250115165927"><p>我们的目标是定义一个监控GPU上的进程信息，所有我们希望指标的样子应该是这样</p>
+<p><img src="https://raw.githubusercontent.com/huyiqiu/blog-image-hosting/main/img/image-20250115160330839.png" alt="">我们的目标是定义一个监控GPU上的进程信息，所有我们希望指标的样子应该是这样</p>
 <div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 <table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
 <pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1

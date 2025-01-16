@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/build-an-exporter/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/build-an-exporter/</guid>
-      <description>&lt;h2 id=&#34;exporter-是什么&#34;&gt;exporter 是什么&lt;/h2&gt;&#xA;&lt;p&gt;exporter可以被简单地认为是一个提供监控指标的工具，对于prometheus生态，exporter是一个http服务器，prometheus通过轮询的方式向这个服务器抓取数据。&lt;/p&gt;</description>
+      <description>&lt;p&gt;编写一个简单的prometheus exporter&lt;/p&gt;</description>
     </item>
     <item>
       <title>nginx-ingress-controller升级nginx版本</title>
