@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ingress-Controller on Eqiu 的博客</title>
-    <link>http://localhost:1313/tags/ingress-controller/</link>
+    <link>https://e-qiu.com/tags/ingress-controller/</link>
     <description>Recent content in Ingress-Controller on Eqiu 的博客</description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ingress-controller/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://e-qiu.com/tags/ingress-controller/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nginx-ingress-controller升级nginx版本</title>
-      <link>http://localhost:1313/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/</link>
+      <link>https://e-qiu.com/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/</guid>
+      <guid>https://e-qiu.com/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/</guid>
       <description>&lt;p&gt;升级nginx-ingress-controller中nginx的版本&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日常 on Eqiu 的博客</title>
+    <link>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/</link>
+    <description>Recent content in 日常 on Eqiu 的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小米体重秤&#43;homeassistant&#43;grafana监控体重</title>
+      <link>http://localhost:1313/posts/record-my-weight/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/record-my-weight/</guid>
+      <description>&lt;p&gt;万物皆需监控，尤其是你的体重&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

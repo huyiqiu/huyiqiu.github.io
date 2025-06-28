@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>https://e-qiu.com/categories/</loc>
+    <lastmod>2025-06-28T15:44:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>https://e-qiu.com/</loc>
+    <lastmod>2025-06-28T15:44:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/exporter/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>https://e-qiu.com/tags/exporter/</loc>
+    <lastmod>2025-06-28T15:44:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kubernetes/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>https://e-qiu.com/tags/kubernetes/</loc>
+    <lastmod>2025-06-28T15:44:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/kubernetes/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>https://e-qiu.com/categories/kubernetes/</loc>
+    <lastmod>2025-06-28T15:44:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>https://e-qiu.com/posts/</loc>
+    <lastmod>2025-06-28T15:44:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/prometheus/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>https://e-qiu.com/tags/prometheus/</loc>
+    <lastmod>2025-06-28T15:44:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>https://e-qiu.com/tags/</loc>
+    <lastmod>2025-06-28T15:44:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/build-an-exporter/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>https://e-qiu.com/posts/build-an-exporter/</loc>
+    <lastmod>2025-06-28T15:44:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E7%9B%91%E6%8E%A7/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <loc>https://e-qiu.com/tags/%E7%9B%91%E6%8E%A7/</loc>
+    <lastmod>2025-06-28T15:44:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ingress-controller/</loc>
+    <loc>https://e-qiu.com/tags/ingress-controller/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/k8s/</loc>
+    <loc>https://e-qiu.com/tags/k8s/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nginx/</loc>
+    <loc>https://e-qiu.com/tags/nginx/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/</loc>
+    <loc>https://e-qiu.com/posts/nginx-ingress-controller%E5%8D%87%E7%BA%A7ingress%E7%89%88%E6%9C%AC/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url>
 </urlset>
